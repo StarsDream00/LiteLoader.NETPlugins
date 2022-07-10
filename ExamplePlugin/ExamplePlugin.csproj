@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LiteLoader.NET">
+      <HintPath>..\SDK\LiteLoader.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

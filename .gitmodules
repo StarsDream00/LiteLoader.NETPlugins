@@ -1,0 +1,3 @@
+[submodule "LiteLoader.NETSDK"]
+	path = SDK
+	url = https://github.com/StarsDream00/LiteLoader.NETSDK.git
