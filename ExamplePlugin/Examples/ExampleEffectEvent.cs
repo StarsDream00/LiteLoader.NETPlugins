@@ -16,6 +16,7 @@ namespace ExamplePlugin.Examples
             EventManager.RegisterEvent<ExampleCancellableEvent>();
             //Register listener
             EventManager.RegisterListener<ExampleListener>();
+            EventManager.RegisterListener<ExampleNativeListner>();
         }
     }
 }
